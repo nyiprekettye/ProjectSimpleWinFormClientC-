@@ -1,0 +1,10 @@
+D:\work\visualStudioC#\MicrosoftServerClient\OwnFormClient\OwnFormClient\bin\Debug\OwnFormClient.exe.config
+D:\work\visualStudioC#\MicrosoftServerClient\OwnFormClient\OwnFormClient\bin\Debug\OwnFormClient.exe
+D:\work\visualStudioC#\MicrosoftServerClient\OwnFormClient\OwnFormClient\bin\Debug\OwnFormClient.pdb
+D:\work\visualStudioC#\MicrosoftServerClient\OwnFormClient\OwnFormClient\obj\Debug\OwnFormClient.csprojResolveAssemblyReference.cache
+D:\work\visualStudioC#\MicrosoftServerClient\OwnFormClient\OwnFormClient\obj\Debug\OwnFormClient.Form1.resources
+D:\work\visualStudioC#\MicrosoftServerClient\OwnFormClient\OwnFormClient\obj\Debug\OwnFormClient.Properties.Resources.resources
+D:\work\visualStudioC#\MicrosoftServerClient\OwnFormClient\OwnFormClient\obj\Debug\OwnFormClient.csproj.GenerateResource.Cache
+D:\work\visualStudioC#\MicrosoftServerClient\OwnFormClient\OwnFormClient\obj\Debug\OwnFormClient.exe
+D:\work\visualStudioC#\MicrosoftServerClient\OwnFormClient\OwnFormClient\obj\Debug\OwnFormClient.pdb
+D:\work\visualStudioC#\MicrosoftServerClient\OwnFormClient\OwnFormClient\obj\Debug\OwnFormClient.ClientConnect.resources
